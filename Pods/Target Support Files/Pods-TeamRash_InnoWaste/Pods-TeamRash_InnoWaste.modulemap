@@ -1,0 +1,6 @@
+framework module Pods_TeamRash_InnoWaste {
+  umbrella header "Pods-TeamRash_InnoWaste-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>868429026553-na80nbvlnq533im2nr6b17ip1qcvudqd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.868429026553-na80nbvlnq533im2nr6b17ip1qcvudqd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjbXB7W6flkDuxLx1rSGKipTPrvZmxIq4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>868429026553</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.henit-chobisa.TeamRash-InnoWaste</string>
+	<key>PROJECT_ID</key>
+	<string>innowaste-b4fcd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>innowaste-b4fcd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:868429026553:ios:2a4b05cdfd7af63073be28</string>
+</dict>
+</plist>
