@@ -1,37 +1,119 @@
-#INNOWASTE
+# InnoWaste - Rethink Your Waste
 
+---
 
-## Our App Video Link- 
-https://youtu.be/0WAhbV-OFo0
+## How to open the project :
 
-## Check Out Website Here-
-https://shreya241.github.io/InnoWaste/
+- A macbook will be required to run the app.
+- Make a directory in your computer and clone the repository.
+- Open TeamRash_InnoWaste.xcworkspace
+- Change the s
 
-## TRACK : Empowering upon innovation
+## The Problem :
 
-## The Main Idea
+- The tendency of ignorance of waste management in day to day households.
 
-InnoWaste project focuses on management of household and public waste. This idea will motivate the people to save the solid waste and give them for recycling, thus saving the environment from pollution.
+- Only 5% of waste is recycled every year from the total waste which is a very less number.
+- There is nothing which unites us together for the betterment of Earth and Environment is the only thing that holds an ability to hold us together as an species.
+- There are not proper opportunities available to people that can motivate them daily for protection of environment and cleanliness.
 
+---
 
+![InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/pexels-photo-1108572.jpeg](InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/pexels-photo-1108572.jpeg)
 
+- There is not a single steam exist which motivates the brands for production of reclycled materials and new products.
 
-## Why InnoWaste?
-Consider you have a threshold amount of waste with you, what innowaste can do is get any type of solid dry waste from you and in exchange the user gets points , these points can be used to purchase our eco-friendly merchandise, discount coupons with  collaborations and empowering recycling of the household waste , that didn't used to go at the right place or didn’t used to recycle at a good capacity.
-Next to this Innowaste has a space where people can achieve badges from doing environment friendly things and sharing them with their peers which also motivates others to do such activities.
-InnoWaste provide platform for managing waste from big events.
+---
 
+## InnoWaste :
 
-## Features
-1) Categories of waste to choose from and taking the threshold amount of waste for the delivery person to pick up.
-2) A cool merchandise for the people who can earn gift and shop products with the points gained from giving the waste, also supporting the products that are made from recycled waste.
-3) Small Environment friendly tasks that provide badges to you and notifying your friends, hence creating a friendly competition among groups.
-4) InnoWaste has a public feed in which people can post their images and their recent achievements, like using bicycle, 3 days a week etc.
-5) Option of contacting our staff personally for waste management from big events.
+---
 
-## App Images
-![](https://github.com/HENIT0885/InnoWaste_TeamRash/blob/b25b2f7d7f2ab2d0a9249de578d541ad8ab19e03/App%20Images/Screenshot%202021-04-11%20at%202.31.51%20PM.png) | ![](https://github.com/HENIT0885/InnoWaste_TeamRash/blob/970458f708224805c2306a7d48f395ac32fd7b02/App%20Images/Screenshot%202021-04-11%20at%202.33.04%20PM.png)
+- InnoWaste project focuses on management of household and public waste. It help us to take your waste from your doorstep after you collect the specified threshold amount of waste and give it to recycling industries.
 
-## Vision
+    In return, we provide our users with some points according to the amount and type of waste we collected which can be accessed for discount coupons and offers on our merchandise.
 
-In future our app can also collaborate with organizations like robin hood army for food waste management which we will plan to add apart from solid dry waste and even collaborate with different eco-friendly  companies for the discount coupons. We plan to conduct innovation competitions that will focus on saving the environment.
+- This idea will motivate the people to save the solid waste and give them for recycling, thus saving the environment from excess plastic and motivate reusablility
+- Innowaste confirms its unique identity for giving place to items made from recycled objects and crafts.
+- Ensures motivation among people as a healthy competition to save the nature.
+- Innowaste ensure the unity among us for the environmental crises and problems regarding environment.
+
+---
+
+![InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.55.43_AM.png](InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.55.43_AM.png)
+
+### Features of the App:
+
+---
+
+![InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.12_AM.png](InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.12_AM.png)
+
+- Ask Pickup
+- Challenges and Feed
+- Event Waste Handling
+- Innowaste's Events
+- Merchandise for Users
+
+### Description of Features :
+
+- **Ask Pickup** :
+
+    - From the Ask Pickup feature, we take your a particular type of waste from your doorstep if you fullfill the nessasary requirements for the features.
+    - We set a threshold quantity of coins for a particular amount of waste and that coins can be used in our merchandise.
+    - You can buy different kinds of stuff, from different types of Industry and brands, sometimes using the vouchers provided by the brand inself in events and challenges.
+
+- **Merchandise:**
+
+    - Merchandise have different types of products that are available for the use to buy from the coins awarded to him from ask pickup.
+    - Merchandise gives a platform the different brands for promotion of different companies's ecofriendly campaignns.
+    - Not only this, innowaste can generate seprate tokens in challenges as a reward which can be use to get further discounts on stuff available of merch.
+    - Small household industries like crafts which promotes reusabilty can be promoted here, for example eatable spoons.
+
+    bu
+
+---
+
+![InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.32_AM.png](InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.32_AM.png)
+
+![InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.20_AM.png](InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.20_AM.png)
+
+![InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.50_AM.png](InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.50_AM.png)
+
+---
+
+![InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.41_AM.png](InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.41_AM.png)
+
+![InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.57.07_AM.png](InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.57.07_AM.png)
+
+---
+
+- **Event Waste Handling**
+
+    - If you are conducting an event you can fill a simple form and Innowaste's volunteers would be coming to help you in waste management of your event.
+    - Generally, they take care that maximum recyclable waste would be taken into right place.
+    - Not only this we can collaboarate with various food waste companies like "Robinhood army" so that even food waste can be managed efficiently.
+
+- **Challenges and Feed:**
+
+    - Innowaste provides us different types of challenges to the users which helps them to gain a opportunity for raising little steps daily towards waste management.
+
+    - The user will be awared with a badge after completing a challenge.
+
+    - The challenge completed and the badge earned will the displayed in the feed which would be seen the nearby people.
+
+    - This will ensure a friendly competition among people for the environment conservation.
+
+---
+
+- **Events by InnoWaste**
+
+    InnoWaste conduct different types of events some of them are-
+
+    - Mama Earth- An Eco-marathon.
+    - Park clean
+    - ScooterLess
+    - Clean Campaign
+    - Make Posters
+    - Teach Environment
+
+![InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.12_AM%201.png](InnoWaste%20-%20Rethink%20Your%20Waste%206d61b30916594daa9ffab476affb89f6/Screenshot_2021-05-09_at_3.56.12_AM%201.png)
